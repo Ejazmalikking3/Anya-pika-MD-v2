@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Farooq Baloch" 
+global.botname = "EJAZMALIK " 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "Farooq Baloch"  
+global.packname = "EJAZMALIK "  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
 global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️Farooq" 
+global.DocumentTitle = "MASTER⚔️EJAZMALIK" 
 
 
-global.ownername = "Farooq Baloch"   // Owner name //        
-global.ownernumber = ['923256073635'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_Farooq Baloch" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ownername = "EJAZMALIK "   // Owner name //        
+global.ownernumber = ['923021115460'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_EJAZ MALIK " // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
@@ -32,13 +32,13 @@ global.sudo = ['916900******','917355******']  // Co - Owners //
 global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
-name16 = "Farooq Kong"
-name17 = "Farooq King"
-name18 = "Farooq King"
+name16 = "EJAZMALIK "
+name17 = "EJAZMALIK "
+name18 = "EJAZMALIK "
 
 //--------Random footer message-----------\\
-footer1 = `Farooq King `
-footer2 = `Farooq King`
+footer1 = `EJAZMALIK `
+footer2 = `EJAZMALIK King`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
