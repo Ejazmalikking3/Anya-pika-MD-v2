@@ -2,18 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "EJAZMALIK" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.packname = "EJAZ✯MALIK✯𝘽𝙊T"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
 global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.DocumentTitle = "MASTER⚔️EJAZ" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "EJAZ"   // Owner name //        
+global.ownernumber = ['923021115460'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -32,13 +32,13 @@ global.sudo = ['916900******','917355******']  // Co - Owners //
 global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "𓄂⍣⃝ EJAZMALIK𓆩×͜×𓆪ꪾ️"
+name17 = "*Λ⃝EJAZMALIK 𓆩×͜×𓆪ꪾ*"
+name18 = "*Λ⃝EJAZMALIK 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `𓄂⍣⃝EJAZMALIKㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
+footer2 = `Λ⃝EJAZMALIKㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
@@ -76,8 +76,8 @@ global.mess = {
 }
 
 //--------------- Menu images ----------------\\
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
-global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
+global.Menuimage = fs.readFileSync("./EJAZMedia/theme/Menu/Menuimg.jpg")
+global.thumnnaiIs = fs.readFileSync("./EJAZMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemic Function --------------\\
 global.autoTyping = false 
